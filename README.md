@@ -58,9 +58,9 @@ Data Structures & Algorithms/
 ## 🎯 Problem Difficulty Distribution
 
 ```
-Easy    ██████░░░░░░  ~35%
-Medium  ████████████  ~50%
-Hard    ████░░░░░░░░  ~15%
+Easy    ███░░░░░░░░░  ~18.67%
+Medium  █████████░░░  ~67.33%
+Hard    ██░░░░░░░░░░  ~14.00%
 ```
 
 ---
